@@ -96,6 +96,12 @@ img {
     margin: auto auto auto auto;
 }
 
+.linkedin {
+    background-color: #aba3a6;
+    border-radius: 8px;
+    max-width: 20%;
+}
+
 /* Image hover effects */
 img:hover {
     filter: grayscale(5%);
